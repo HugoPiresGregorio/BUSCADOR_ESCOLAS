@@ -1,5 +1,7 @@
 # BUSCADOR_ESCOLAS
 
+##📋 Exemplo de Retorno no Terminal:##
+
 A pesquisar coordenadas para: Avenida Paulista, São Paulo...
 
 📍 Ponto base: Avenida Paulista, Consolação, São Paulo, Região Sudeste, 01311-300, Brasil
